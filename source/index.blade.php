@@ -12,7 +12,7 @@
                         <p class="lead text-white-50 lh-base mb-4 pb-2">We embrace innovation and technology to provide prompt and efficient motor valuation & assessment</p>
 
                         <div class="hstack gap-2 justify-content-center">
-                            <a href="#about" class="btn btn-primary">Learn More <i class="ri-arrow-right-line align-middle ms-1"></i></a>
+                            <a href="#about-us" class="btn btn-primary">Learn More <i class="ri-arrow-right-line align-middle ms-1"></i></a>
                             <a href="mailto:motordeft@gmail.com" class="btn btn-danger">Talk to Us <i class="ri-arrow-right-line align-middle ms-1"></i></a>
                         </div>
                     </div>
