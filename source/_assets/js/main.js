@@ -1,0 +1,8 @@
+require('./libs/bootstrap.bundle.min')
+require('./libs/simplebar.min.css')
+require('./libs/waves.min')
+require('./libs/feather.min')
+require('./libs/lord-icon-2.1.0')
+require('./libs/plugins')
+require('./libs/swiper-bundle.min.css')
+require('./libs/nft-landing.init')
