@@ -13,7 +13,7 @@
 
                         <div class="hstack gap-2 justify-content-center">
                             <a href="#about" class="btn btn-primary">Learn More <i class="ri-arrow-right-line align-middle ms-1"></i></a>
-                            <a href="" class="btn btn-danger">Talk to Us <i class="ri-arrow-right-line align-middle ms-1"></i></a>
+                            <a href="mailto:motordeft@gmail.com" class="btn btn-danger">Talk to Us <i class="ri-arrow-right-line align-middle ms-1"></i></a>
                         </div>
                     </div>
                 </div><!--end col-->
