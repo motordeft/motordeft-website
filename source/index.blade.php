@@ -8,7 +8,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-sm-10">
                     <div class="text-center">
-                        <h1 class="display-4 fw-semibold mb-4 lh-base text-white">Efficient, Reliable Motor <br><span class="text-success"> Valuation & Assessment</span></h1>
+                        <h1 class="display-4 fw-semibold mb-4 lh-base text-white">Efficient, Reliable Motor <br><span class="text-success"> Valuers & Assessors</span></h1>
                         <p class="lead text-white-50 lh-base mb-4 pb-2">We embrace innovation and technology to provide prompt and efficient motor valuation & assessment</p>
 
                         <div class="hstack gap-2 justify-content-center">
