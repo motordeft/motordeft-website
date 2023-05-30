@@ -28,7 +28,7 @@
                     <div class="text-center mb-5">
                         <h2 class="mb-3 fw-bold lh-base pb-3">About Us</h2>
                         <div class="fs-5">
-                            <p class="text-muted"><span class="fw-bolder">MOTORDEFT VALUERS AND ASSESSORS LIMITED</span> is Private Limited company incorporated in Kenya under the Companies Act, 2015.</p>
+                            <p class="text-muted"><span class="fw-bolder">MOTORDEFT VALUERS AND ASSESSORS LIMITED</span> is a Private Limited Company incorporated in Kenya under the Companies Act, 2015.</p>
                             <p class="text-muted">We are composed of professionals who are able to carry out Motor Vehicle Valuation and Assessment services across various sectors and for various purposes.</p>
                             <p class="text-muted">We embraces innovation and technology to enhance prompt and efficient service provision to all our customers. Customer service and satisfaction is our main priority</p>
                         </div>
