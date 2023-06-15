@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => env('BASE_URL','http://localhost:3000'),
+    'baseUrl' => env('BASE_URL','https://motordeft.com'),
     'production' => false,
     'siteName' => 'Motordeft Valuers and Assessors Limited',
     'siteDescription' => 'Experts in Full Mechanical Valuation, Motor Vehicle Valuation & Motor Claims Assessment With presence in Nairobi, Rift Valley, Coastal Region, Nyanza, Western, Mt. Kenya Region',
