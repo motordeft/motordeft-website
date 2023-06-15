@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://localhost:3000',
+    'baseUrl' => env('BASE_URL','https://motordeft.com'),
     'production' => true,
 ];
