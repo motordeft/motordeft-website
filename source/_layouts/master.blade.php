@@ -24,7 +24,15 @@
         @stack('meta')
 
         @if ($page->production)
-            <!-- Insert analytics code here -->
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-WZ2T5MJTJ9"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-WZ2T5MJTJ9');
+            </script>
         @endif
 
         <script src="{{ mix('js/layout.js', 'assets/build') }}"></script>
