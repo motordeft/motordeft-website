@@ -28,7 +28,7 @@
             </ul>
 
             <div class="">
-                <a href="mailto:motordeft@gmail.com" class="btn btn-danger text-uppercase"><i class="ri-mail-check-line align-middle me-1"></i>Talk to us</a>
+                <a href="mailto:info@motordeft.com" class="btn btn-danger text-uppercase"><i class="ri-mail-check-line align-middle me-1"></i>Talk to us</a>
             </div>
         </div>
 
