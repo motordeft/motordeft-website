@@ -13,7 +13,7 @@
 
                         <div class="hstack gap-2 justify-content-center">
                             <a href="#about-us" class="btn btn-primary">Learn More <i class="ri-arrow-right-line align-middle ms-1"></i></a>
-                            <a href="mailto:motordeft@gmail.com" class="btn btn-danger">Talk to Us <i class="ri-arrow-right-line align-middle ms-1"></i></a>
+                            <a href="mailto:info@motordeft.com" class="btn btn-danger">Talk to Us <i class="ri-arrow-right-line align-middle ms-1"></i></a>
                         </div>
                     </div>
                 </div><!--end col-->
@@ -173,7 +173,7 @@
                 <div class="col-sm">
                     <div>
                         <h3 class="text-white mb-4 fw-bold">Talk to us about your Motor Valuation & Assessment needs.</h3>
-                        <span class="text-white fs-5 d-block mb-2"><i class="ri-mail-check-line pt-2"></i> Email: <span class="fw-bolder">motordeft@gmail.com</span></span>
+                        <span class="text-white fs-5 d-block mb-2"><i class="ri-mail-check-line pt-2"></i> Email: <span class="fw-bolder">info@motordeft.com</span></span>
                         <span class="text-white fs-5 d-block mb-2"><i class="ri-mail-send-line pt-2"></i> Postal: <span class="fw-bolder">P.O Box 1715-00100 Nairobi</span></span>
                         <span class="text-white fs-5 d-block mb-2"><i class="ri-customer-service-line pt-2"></i> Phone: <span class="fw-bolder">+254 740 683 616</span></span>
                     </div>
@@ -181,7 +181,7 @@
                 <!-- end col -->
                 <div class="col-sm-auto">
                     <div>
-                        <a href="mailto:motordeft@gmail.com" class="btn bg-gradient btn-danger text-uppercase"><i class="ri-mail-check-line align-middle me-1"></i> Talk to us</a>
+                        <a href="mailto:info@motordeft.com" class="btn bg-gradient btn-danger text-uppercase"><i class="ri-mail-check-line align-middle me-1"></i> Talk to us</a>
                     </div>
                 </div>
                 <!-- end col -->
